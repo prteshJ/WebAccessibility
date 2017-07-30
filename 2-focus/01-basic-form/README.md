@@ -10,4 +10,4 @@ The ticket should...
 - window seat
 - and you DO NOT want to receive promotional offers 😀
 
-When you have all the field filled out correctly you can return to the lesson
+
