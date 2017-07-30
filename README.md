@@ -18,5 +18,5 @@ way to run a local server is with [the Web Server for Chrome extension](https://
 
 ## Found a bug?
 
-Please feel free to [create an issue](https://github.com/udacity/ud891/issues/new)
+Please feel free to [create an issue](https://github.com/prteshJ/WebAccessibility/issues/new)
 if you find anything wrong with the exercises.
