@@ -1,1 +1,1 @@
-Here, identify html image where alt text is redundant and remove it.
+Here, identified html image where alt text is redundant and remove it.
